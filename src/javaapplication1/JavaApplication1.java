@@ -18,6 +18,8 @@ public class JavaApplication1 {
         // showing other commit
         // ejunhybg
         // demostrating pull
+        // showing fetching
+        // showing fetch and merge
     }
     
 }
